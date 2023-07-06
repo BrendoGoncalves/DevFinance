@@ -7,3 +7,5 @@ DevFinance is html page that inteds to control your finance life. The projects r
 * HTML
 * CSS
 * JavaScript
+
+![coi](/Finance/assets/coin.png)
