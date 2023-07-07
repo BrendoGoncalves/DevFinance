@@ -10,4 +10,4 @@ DevFinance is html page that inteds to control your finance life. The projects r
 
 ![main screen](img/fin1.png)
 
-![transaction screen](img/fin2.png)
+![transaction screen](img/fin0.png)
